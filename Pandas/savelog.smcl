@@ -1,0 +1,15 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}E:\python\data science\Pandas\savelog.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}18 Feb 2019, 01:52:50
+
+{com}. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}E:\python\data science\Pandas\savelog.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}18 Feb 2019, 01:52:58
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
